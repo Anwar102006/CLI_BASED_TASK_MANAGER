@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "title": "complete internship work",
+        "description": "online virtual internship work which should be completed on monday 06/10/2025",
+        "due_date": "2025-10-06",
+        "status": "Completed",
+        "priority": "Medium"
+    }
+]
